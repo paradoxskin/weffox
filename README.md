@@ -1,6 +1,6 @@
-# WeChrome
+# Weffox
 
-A Chrome extension to unblock Web Version of WeChat
+A firefox extension to unblock Web Version of WeChat
 
 
 Tired of Tencent for not providing Linux version of WeChat? Run into the following error while logging into web version of WeChat?
